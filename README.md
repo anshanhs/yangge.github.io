@@ -1,1 +1,4 @@
 # yangge.github.io
+
+
+init()
